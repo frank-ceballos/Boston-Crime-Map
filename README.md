@@ -4,4 +4,4 @@ In this notebook, we will demonstrate the capabilites of Python to create web-ba
 
 Github might not render correctly the Jupyter notebook so you can click [here](https://nbviewer.jupyter.org/github/frank-ceballos/Boston-Crime-Map/blob/master/Boston%20Crime%20Map.ipynb) to see it in action. 
 
-Note: If you follow the link above, note that it seems that the notebook renders completely with Firefox but not with Google Chrome. 
+Note: If you follow the link above, it seems that the notebook renders completely with Firefox but not with Google Chrome. 
